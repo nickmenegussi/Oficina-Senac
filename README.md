@@ -11,3 +11,7 @@ git pull request - sinaliza que os commits de uma branch estao prontos para se u
 git request-pull  - enviar
 
 mudanca realizada
+
+linkedin do guilherme: guilhermetaara
+
+linkedin da bruna: Bruna rafaela boch
