@@ -8,4 +8,6 @@ voltar para a branch principal - git checkout main
 
 git pull request - sinaliza que os commits de uma branch estao prontos para se unirem a outra branch
 
-git request-pull 
+git request-pull  - enviar
+
+mudanca realizada
