@@ -8,4 +8,4 @@ const z = number.map((num) => num * x)
 
 console.log(z)
 
-// adad
+const r = "Oi"
