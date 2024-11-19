@@ -1,0 +1,1 @@
+Staged Changes - É quando o arquivo está pronto para comitar, basta adicionar um git add . no terminal para deixar ele pronto sem fazer isso de forma manual
